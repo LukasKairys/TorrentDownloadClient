@@ -1,0 +1,7 @@
+packages/*
+Application/bin/*
+Application/obj/*
+Application/debug/*
+TorrentClient/bin/*
+TorrentClient/obj/*
+TorrentClient/debug/*
